@@ -1,0 +1,16 @@
+D:\302_Huy_Hong_Hoang_Hao_DucHuy\302_Huy_Hong_Hoang_Hao_DucHuy\Lab8\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\302_Huy_Hong_Hoang_Hao_DucHuy\302_Huy_Hong_Hoang_Hao_DucHuy\Lab8\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\302_Huy_Hong_Hoang_Hao_DucHuy\302_Huy_Hong_Hoang_Hao_DucHuy\Lab8\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\302_Huy_Hong_Hoang_Hao_DucHuy\302_Huy_Hong_Hoang_Hao_DucHuy\Lab8\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\302_Huy_Hong_Hoang_Hao_DucHuy\302_Huy_Hong_Hoang_Hao_DucHuy\Lab8\bin\Debug\Lab8.dll
+D:\302_Huy_Hong_Hoang_Hao_DucHuy\302_Huy_Hong_Hoang_Hao_DucHuy\Lab8\bin\Debug\Lab8.pdb
+D:\302_Huy_Hong_Hoang_Hao_DucHuy\302_Huy_Hong_Hoang_Hao_DucHuy\Lab8\bin\Debug\MethodLibrary.dll
+D:\302_Huy_Hong_Hoang_Hao_DucHuy\302_Huy_Hong_Hoang_Hao_DucHuy\Lab8\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\302_Huy_Hong_Hoang_Hao_DucHuy\302_Huy_Hong_Hoang_Hao_DucHuy\Lab8\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\302_Huy_Hong_Hoang_Hao_DucHuy\302_Huy_Hong_Hoang_Hao_DucHuy\Lab8\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\302_Huy_Hong_Hoang_Hao_DucHuy\302_Huy_Hong_Hoang_Hao_DucHuy\Lab8\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\302_Huy_Hong_Hoang_Hao_DucHuy\302_Huy_Hong_Hoang_Hao_DucHuy\Lab8\obj\Debug\Lab8.csproj.AssemblyReference.cache
+D:\302_Huy_Hong_Hoang_Hao_DucHuy\302_Huy_Hong_Hoang_Hao_DucHuy\Lab8\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
+D:\302_Huy_Hong_Hoang_Hao_DucHuy\302_Huy_Hong_Hoang_Hao_DucHuy\Lab8\obj\Debug\Lab8.csproj.Up2Date
+D:\302_Huy_Hong_Hoang_Hao_DucHuy\302_Huy_Hong_Hoang_Hao_DucHuy\Lab8\obj\Debug\Lab8.dll
+D:\302_Huy_Hong_Hoang_Hao_DucHuy\302_Huy_Hong_Hoang_Hao_DucHuy\Lab8\obj\Debug\Lab8.pdb
