@@ -1,17 +1,2 @@
 # Thư mục Visual Studio
 .vs/
-
-# Thư mục build
-bin/
-obj/
-
-# Thư mục packages
-packages/
-
-# Các tệp cache
-*.cache
-
-# Thư mục Lab8 (nếu không cần theo dõi)
-Lab8/
-
-
