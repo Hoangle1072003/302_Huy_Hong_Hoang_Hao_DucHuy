@@ -1,0 +1,8 @@
+a,b,c,exp,x1,x2
+1,-5,6,Có 2 nghi?m phân bi?t,3,2
+1,-10,25,Có nghi?m kép,5,5
+0,0,0,Vô s? nghi?m,NaN,NaN
+8,3,3,Vô nghi?m,NaN,NaN
+2.3,5,7,NaN,NaN,NaN
+3,3.5,8,NaN,NaN,NaN
+0,1,9.5,NaN,NaN,NaN
